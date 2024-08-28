@@ -1,4 +1,4 @@
-# Data_Cleaning
+# Project_1_Data_Cleaning
 This repository contains my data cleaning project, which was completed as part of my data analyst course. The goal of this project was to clean and prepare raw data for analysis, ensuring data accuracy, consistency, and completeness.
 
 
