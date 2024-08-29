@@ -1,18 +1,15 @@
-# Project_1_Data_Cleaning
-This repository contains my data cleaning project, which was completed as part of my data analyst course. The goal of this project was to clean and prepare raw data for analysis, ensuring data accuracy, consistency, and completeness.
+# Project_1_Data_Cleaning_and_Exploratory
 
+This project involved transforming messy, raw data into a clean and structured format, followed by conducting exploratory data analysis (EDA) to uncover patterns, trends, and actionable insights. The goal was to ensure the data's accuracy and reliability while extracting meaningful information for decision-making.
 
+Key Features:
 
-# Key Features:
+Data cleaning: handling missing values, removing duplicates, and standardizing formats.
 
-Tools Used: MySQL Workbench for querying and cleaning the data.
+Exploratory analysis: visualizing data distributions, identifying key trends and outliers.
 
-Data Cleaning Techniques: Addressed missing values, removed duplicates, handled outliers, standardized data formats, and ensured proper data types.
+Discovering hidden patterns and correlations using summary statistics and visualizations.
 
-Outcome: Improved the quality and reliability of the dataset, making it ready for in-depth analysis and visualization.
+Why It Matters:
 
-
-
-# Why this project matters:
-
-Data cleaning is a crucial step in the data analysis process. This project demonstrates my ability to work with raw data, identify and resolve data quality issues, and ensure the dataset is ready for meaningful insights.Feel free to explore the project and use the SQL queries included in this repository.
+This project showcases the full lifecycle of data handling—from cleaning raw data to performing exploratory analysis. Clean and well-analyzed data ensures accurate insights and better decision-making, which is crucial for any data-driven process.
